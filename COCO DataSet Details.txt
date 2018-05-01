@@ -1,0 +1,2 @@
+MS-COCO dataset consists of 90 classes on which most of the models are trained on.
+COCO stands for "Common Object In Context", the dataset is made and updated by Microsoft Corporation.
