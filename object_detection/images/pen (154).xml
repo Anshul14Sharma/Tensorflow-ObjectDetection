@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pen (154).jpg</filename>
+	<path>/home/striker/Desktop/pen_dataset/images/pen (154).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>145</ymin>
+			<xmax>178</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>
