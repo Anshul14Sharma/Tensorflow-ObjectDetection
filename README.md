@@ -1,8 +1,7 @@
 # Tensorflow-ObjectDetection   
-Install Tensorflow and dependencies:-  
+* Install Tensorflow and dependencies:-  
 ```sudo pip3 install -r requirements.txt```  
-First go with the installation of TensorFlow.  
-Go to the folder object_detection and run using following command:-  
+* Go to the object_detection folder and run the object detection script using following command:-  
 ```python3 penDetection.py```
 # Steps for creating own dataset :-   
 * Tensorflow object detection API uses the TFRecord file format, so we need to convert our dataset to this file format.  
