@@ -1,6 +1,4 @@
-# Tensorflow-ObjectDetection
-Object Detection (Computer Vision) on the Web with WebRTC and TensorFlow  
-
+# Tensorflow-ObjectDetection  
 # About TensorFlow:  
 TensorFlow is an open source software library machine learning framework for numerical computation which uses data flow graphs/computational graph as its computational model.  
 Nodes in the graph represents mathematical operations, while the graph edges represent the multidimensional data arrays (known as tensors).  
