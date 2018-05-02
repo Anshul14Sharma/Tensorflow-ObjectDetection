@@ -34,10 +34,10 @@ eval_input_reader: {
 --> Before we start experimenting with our newly trained model, we have to export the graph for inference. You can use the latest ckpt # from
 your data directory.  
 ```python3 object_detection/export_inference_graph.py \  
-   --input_type image_tensor \  
-   --pipeline_config_path data/ssd_mobilenet_v1_pen.config \  
-   --trained_checkpoint_prefic data/model.ckpt-# (last checkpoint id) \  
-   --output_directory object_detection_graph  
+   input_type image_tensor \  
+   pipeline_config_path data/ssd_mobilenet_v1_pen.config \  
+   trained_checkpoint_prefic data/model.ckpt-# (last checkpoint id) \  
+   output_directory object_detection_graph  
 ```
 After this, we can start detecting the images.
 
