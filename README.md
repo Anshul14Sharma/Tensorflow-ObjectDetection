@@ -1,6 +1,6 @@
 # Tensorflow-ObjectDetection   
 Install Tensorflow and dependencies:-  
--> sudo pip3 install -r requirements.txt
+```sudo pip3 install -r requirements.txt```
 First go with the installation of TensorFlow.  
 Go to the folder object_detection and run using following command:-  
     python3 penDetection.py
