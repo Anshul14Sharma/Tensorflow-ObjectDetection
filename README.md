@@ -3,18 +3,18 @@ Object Detection (Computer Vision) on the Web with WebRTC and TensorFlow
 
 About TensorFlow:
 TensorFlow is an open source software library/ machine learning framework for numerical computation which uses data flow graphs/computational graph as its computational model. 
-Nodes in the graph represents mathematical operations, while the graph edges represent the multidimensional data arrays (known as tensors). 
-The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. 
-TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well. 
+Nodes in the graph represents mathematical operations, while the graph edges represent the multidimensional data arrays (known as tensors).   
+The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.  
+TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.  
 
-Installing TensorFlow on Ubuntu:
-This module explains how to install TensorFlow on Ubuntu. Although these instructions might also work on other Linux variants. 
-System Requirements:
-    • 64-bit desktops or laptops 
-    • Ubuntu 14.04 or higher (Mine was Ubuntu 16.04 LTS) 
+# Installing TensorFlow on Ubuntu:  
+This module explains how to install TensorFlow on Ubuntu. Although these instructions might also work on other Linux variants.  
+System Requirements:  
+    • 64-bit desktops or laptops  
+    • Ubuntu 14.04 or higher (Mine was Ubuntu 16.04 LTS)  
 TensorFlow with CPU support only. If your system does not have a NVIDIA GPU, you must install this version. Note that this version of TensorFlow is typically much easier to install, if you have an NVIDIA GPU, we recommend installing GPU version.
-There are 4 ways through which you can install tensorflow on Ubuntu. The supported choices are as follows:
-    • Virtualenv 
+There are 4 ways through which you can install tensorflow on Ubuntu. The supported choices are as follows:  
+    • Virtualenv   
     • "native" pip 
     • Docker 
     • Anaconda 
