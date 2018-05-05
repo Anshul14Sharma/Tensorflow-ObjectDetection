@@ -1,6 +1,7 @@
 # Tensorflow-ObjectDetection   
 * Install Tensorflow and dependencies:-  
 ```sudo pip3 install -r requirements.txt```  
+``sudo apt-get install python3-tk``  
 * Go to the object_detection folder and run the object detection script using following command:-  
 ```python3 penDetection.py```
 #### Steps for creating own dataset :-  ####  
@@ -40,6 +41,8 @@ your data directory.
 ```
 After this, we can start detecting the images.  
 
-
+#### Final Result:- ####  
+Here, using the above trained model the pen image is detected with the probability of 99%.
+[!alt text](https://raw.githubusercontent.com/Anshul14Sharma/Tensorflow-ObjectDetection/master/pen.png)
 
 
