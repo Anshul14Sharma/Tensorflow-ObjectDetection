@@ -43,6 +43,6 @@ After this, we can start detecting the images.
 
 #### Final Result:- ####  
 Here, using the above trained model the pen image is detected with the probability of 99%.
-[!alt text](https://raw.githubusercontent.com/Anshul14Sharma/Tensorflow-ObjectDetection/master/pen.png)
+![alt text](https://raw.githubusercontent.com/Anshul14Sharma/Tensorflow-ObjectDetection/master/pen.png)
 
 
